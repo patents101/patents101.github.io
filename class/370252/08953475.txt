@@ -1,0 +1,1 @@
+A method in a first base_station for obtaining_channel_state_information from a user_equipment is provided. The first base_station is comprised in a wireless_communication_system. The wireless_communication_system further comprises the user_equipment. The first base_station_estimates  

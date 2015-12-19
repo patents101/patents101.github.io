@@ -1,0 +1,1 @@
+A portion of a voice_call is forked by copying_packets associated with voice_call at a device providing an interface between two networks. The packets to be copied are identified_based on address and port_information associated with the voice_call. The portion of the voice_call is analyzed to determine the source of any voice_quality_issues associated with the call.

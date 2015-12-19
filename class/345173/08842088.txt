@@ -1,0 +1,1 @@
+A computer-implemented_method is disclosed. The method includes  detecting at least two touches on a touch_screen__determining a touch_area corresponding to at least two of the touches__determining a location on the touch_screen in proximity to  but at least partially outside of the touch_areas  and displaying a point of interaction at the determined_location on the touch_screen.

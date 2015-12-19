@@ -1,6 +1,8 @@
 ## app.R ##
 library(shinydashboard)
 library(DT)
+library(LDAvis)
+
 
 ui <- dashboardPage(skin="black",
   dashboardHeader(title = "GeT-First dashboard"),

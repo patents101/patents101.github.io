@@ -1,0 +1,1 @@
+An apparatus and method of measuring a collective_capacitance on a group of capacitive_sense_elements from at least one of rows or columns of a capacitance_sense_array when in a first mode  and individually_measuring_capacitances on each of the rows and columns when in a second mode.

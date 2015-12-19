@@ -1,0 +1,1 @@
+In an access_device associated with a first network_cell  a method for enabling user equipment  UE  to obtain a service_unavailable through the first network_cell includes receiving a request for the UE to access the service  and identifying  in a message to the UE  a plurality of second network_cells providing the service.

@@ -1,0 +1,1 @@
+A method and device for providing post_idle_mobility_procedure. The method and device providing an indication of a Radio Access Technology  RAT  type after an Idle Mode Signaling Reduction  ISR .

@@ -1,0 +1,1 @@
+An apparatus for wireless_communications is provided_including a processing_system. The processing_system is configured to determine_path-losses between the apparatus and a plurality of wireless_nodes  to group the plurality of wireless_nodes into sets_based on the determined_path-losses  and to exchange_data with at least one of the wireless_nodes in one of the sets.

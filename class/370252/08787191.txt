@@ -1,0 +1,1 @@
+A method and apparatus for improving the accuracy of a round trip time  RTT  estimate between a first device and a second device are disclosed. The method_involves_calculating an acknowledgement_correction_factor and a unicast_correction_factor. These correction_factors are used to compensate for symbol_boundary_time_errors_resulting from multipath_effects.

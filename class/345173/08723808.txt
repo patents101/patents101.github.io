@@ -1,0 +1,1 @@
+A method of executing a function through a touch_input_device. The method includes displaying a plurality of soft_keys on a screen of the touch_input_device  and executing a function when one of the soft_keys is touched and slid on the screen of the touch_input_device and an input_instruction is entered to execute the assigned_function.

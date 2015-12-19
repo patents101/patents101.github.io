@@ -8,9 +8,11 @@ library(RColorBrewer)
 library(plyr)
 library(plotly)
 library(reshape2)
+
+library(LDAvis)
 pal2 <- brewer.pal(8,"Dark2")
 num.top.words<- 30
-project_path <- "C:\\Users\\Administrator\\OPAIRS\\class\\"
+project_path <- "./class"
 numberOftopics <- 20
 
 shinyServer(function(input, output) {
@@ -23,13 +25,13 @@ shinyServer(function(input, output) {
   doc.topics <- reactive({return(mallet.doc.topics(models(), smoothed=T, normalized=T))})
   dat.date<-reactive({    
     ## Import dataset with date
-    date_path <- paste0("C:/Users/Administrator/OPAIRS/train/",input$select,"/",input$select,".csv")
+    date_path <- paste0("./train/",input$select,"/",input$select,".csv")
     dat_date <- read.csv(date_path, sep = ",", header=TRUE)
     dat_date$id <- unlist(lapply(dat_date$id, function(x) paste0("0",as.character(x))))
     return(dat_date)
   })
   models <- reactive({
-    mallet.instances <- mallet.import(docs()$id, docs()$text,"C:/Users/Administrator/OPAIRS/Stoplist.txt",token.regexp = "\\p{L}[\\p{L}\\p{P}]+\\p{L}")
+    mallet.instances <- mallet.import(docs()$id, docs()$text,"./stopwords.txt",token.regexp = "\\p{L}[\\p{L}\\p{P}]+\\p{L}")
     ## Create a topic trainer object.
     topic.model <- MalletLDA(numberOftopics)
     ## Load our documents. We could also pass in the filename of a

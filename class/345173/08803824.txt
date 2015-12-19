@@ -1,0 +1,1 @@
+Methods and systems for enabling a tablet_input_object is described. A tablet_input_object can take various inputs from touch  a mouse  and a pen and send their information to an application.

@@ -1,0 +1,1 @@
+A touch_screen_position_sensor has two sets of electrodes  where at least one of the electrodes is divided into segments that are arranged on opposing_faces of a substrate. The electrode_segments on one face of a substrate do not overlap with the electrode_segments on the opposing_face of the substrate.

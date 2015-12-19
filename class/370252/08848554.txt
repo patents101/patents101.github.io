@@ -1,0 +1,1 @@
+Systems  methods  and other embodiments associated with packet_sniffing using packet_filter_hooks are described. In one embodiment  a method includes re-directing a network_packet at a filter_hook_point in an Internet Protocol processing stack. The example method may also include re-directing the network_packet to a packet_sniffer.

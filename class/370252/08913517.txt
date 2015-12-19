@@ -1,0 +1,1 @@
+Methods for measuring the sensitivity of a data_packet_signal_receiver are provided by varying the power_level or modulation or both of a received_data_packet_signal in a predetermined_controlled_sequence of data_packet_signals.

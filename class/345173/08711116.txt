@@ -1,0 +1,1 @@
+In one embodiment  a user of a mobile_device_navigates between application_user_interface_layers by using touch_inputs to the mobile_device s side-mounted_touchpad.

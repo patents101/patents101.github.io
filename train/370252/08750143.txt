@@ -1,0 +1,1 @@
+A method for reporting uplink control information  UCI  is described. A first part of the UCI is encoded in a single physical uplink control channel  PUCCH  symbol. A channel of the PUCCH symbol is selected to implicitly_encode a second part of the UCI in the PUCCH symbol. The PUCCH symbol is transmitted via a single PUCCH signal.

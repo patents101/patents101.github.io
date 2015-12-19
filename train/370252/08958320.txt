@@ -1,0 +1,1 @@
+A method and a device for processing a measurement_context are provided by the present_invention. The method includes  preparing for handover between radio_access_network_devices in the Long Term Evolution  LTE  system  

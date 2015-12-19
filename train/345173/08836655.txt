@@ -1,0 +1,1 @@
+A mobile_device is disclosed. The mobile_device includes a display  a touch_panel  and a buffer_structure. The touch_panel is disposed on one side of the display. The buffer_structure has a gas_fluid_layer and is disposed between the display and the touch_panel.

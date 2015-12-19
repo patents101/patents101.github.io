@@ -1,0 +1,1 @@
+A line_driver_circuit an method for protecting the line_driver_circuit from overdrive that includes generating an output_signal for a transformer_coupled to a load  and comparing a voltage of the output_signal to a threshold_voltage value. If the comparison indicates overload  the method further includes generating a control_signal to reduce an amplitude of the output_signal.

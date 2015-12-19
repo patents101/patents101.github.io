@@ -1,0 +1,1 @@
+An interactive_media_display_system_comprising at least one digital_display_panel  at least one touch_screen_display_panel and at least one processor for operating and controlling the display_panels. The system_preferably includes a media_dispensing_system which enables the interactive_media_display to create and/or dispense_media_related_products.

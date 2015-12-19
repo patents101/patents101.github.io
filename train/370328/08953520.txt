@@ -1,0 +1,1 @@
+An apparatus for wireless_communication is disclosed that includes a processing_system_configured to communicate with a plurality of sectors in an active_set  and receive_independent_data_streams from the plurality of sectors on the same carrier. A method for performing the process is also disclosed herein.

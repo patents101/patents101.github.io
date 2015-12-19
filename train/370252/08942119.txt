@@ -1,0 +1,1 @@
+Active wireless devices in communication with an access_node of a wireless_communication_system are detected and prioritized  and a group of the active_wireless_devices is selected. Data is provided to each selected_wireless_device  a burstiness_metric is received_based on the provided_data  and a burstiness_profile of the wireless_communication_system is determined.

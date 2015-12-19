@@ -1,0 +1,1 @@
+A base_station_device_including  a receiver that receives_data from a terminal_device  and a processor that performs_setting for the reception of data from the terminal_device  and deactivates a management of the terminal_device after performing_setting  wherein the receiver_receives_data from the terminal_device in a state of deactivated_management.

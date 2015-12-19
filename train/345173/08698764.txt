@@ -1,0 +1,1 @@
+A back_touch_sensor_positioned on a back_surface of a device_accepts_user_input in the form of touches. The touches on the back_touch_sensor_map_keys on a virtual_keyboard  a pointer_input  and so forth. Touches on a touch_sensor_positioned on a front_surface_provide_additional_input while also allowing the user to grasp and hold the device.

@@ -1,0 +1,1 @@
+A universal_touch_input_driver includes a device_driver_interface through which touch_data is obtained from a device_driver. Also included is a computation_module that processes the touch_data and converts it into a standardized_format. Also included is an application_interface through which the standardized_touch_data is transferred to a touch_input_application.

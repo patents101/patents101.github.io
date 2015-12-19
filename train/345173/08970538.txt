@@ -1,0 +1,1 @@
+The present_invention provides a touch_sensor_system which is capable of removing a hand-placing_signal while mounting_normal_application_software on a host_device. A touch_sensor_system  

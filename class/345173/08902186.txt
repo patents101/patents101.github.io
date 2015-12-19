@@ -1,0 +1,1 @@
+A touch_display_apparatus and a touch_position_mapping_method_thereof are provided  by mapping a touch_position_detected by a touch_module to a display_area of a display_module according to one fitting_function  so that a touch_position on the display_area of the display_module may be determined according to a mapping_result.

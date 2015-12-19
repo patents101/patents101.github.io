@@ -1,0 +1,1 @@
+A projective_capacitive_touch_sensor includes a substrate  a plurality of electrode_layers and a plurality of dielectric_layers. The electrode_layers are arranged on the substrate along a first direction. At least one dielectric_layer is formed on each electrode_layer and the dielectric_layer has different widths along a second direction.

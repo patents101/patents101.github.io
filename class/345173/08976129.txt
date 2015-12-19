@@ -1,0 +1,1 @@
+A method is provided for an electronic_device with a processor and a touch-sensitive_display  the touch-sensitive_display_including a display_area and a non-display_area. The method includes providing a boundary_based on the display_area and the non-display_area.

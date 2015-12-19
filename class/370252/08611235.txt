@@ -1,0 +1,1 @@
+In one embodiment__estimating a length of a network_connection__determining whether the estimated_network_connection_length_deviates from a predetermined_threshold_range__modifying one or more signal_characteristics when it is determined that the estimated_network_connection_length_deviates from the predetermined_threshold_range are provided.

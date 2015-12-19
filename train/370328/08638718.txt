@@ -1,0 +1,1 @@
+There are provided a radio_base_transceiver_station and a method of connecting the same to a network  whereby a home_radio_base_transceiver_station is connectable in an automated_manner to a network__network  of a mobile_communications_operator and the security is ensured in the reception of information. A network_interface_section 

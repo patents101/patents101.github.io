@@ -1,0 +1,1 @@
+A method that reduces the power_consumption on network_nodes by taking into account the services that need to be supported by the network and the power_saving_capabilities of the nodes.

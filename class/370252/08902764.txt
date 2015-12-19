@@ -1,0 +1,1 @@
+Provided is a base_station_device_capable of reducing a DL-CSI feedback amount in a TDD type radio communication system in which a DL bandwidth is different from a UL bandwidth. In this device  a demultiplexing_unit  

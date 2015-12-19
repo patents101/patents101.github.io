@@ -1,0 +1,1 @@
+A region in a displayed_image is scraped away in accordance with a trail of touch with a touch_pen or the like and an object_showing____shavings    corresponding to the scraped-away region is generated. A display_position of each of particles_generated in accordance with a user s operation with the touch_pen 

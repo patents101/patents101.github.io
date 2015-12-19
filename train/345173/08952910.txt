@@ -1,0 +1,1 @@
+This disclosure_describes_systems and techniques for implementing a touchscreen. These systems and/or techniques_enable_processing of a signal_generated from one or more sensors of a touchscreen to reduce_noise and increase_accuracy.

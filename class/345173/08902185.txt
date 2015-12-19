@@ -1,0 +1,1 @@
+ Problem  The present_invention_intends to provide a scrolling_screen_apparatus  a method for scrolling_screen  and a game_apparatus  which prevent from scrolling_display_screen by user s misoperation and scroll_display_screen with intuitive_operation.  Method of solution  A control_device 

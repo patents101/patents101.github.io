@@ -1,0 +1,1 @@
+A display_device according to an embodiment includes a touch_panel  a plurality of detecting_units  a blocking_unit  and a calculating_unit. The display_device is incorporated in a vehicle  and the touch_panel_receives a pressing_operation. The plurality of detecting_units_detect a pressure value on the touch_panel.

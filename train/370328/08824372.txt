@@ -1,0 +1,1 @@
+Providing access to online_services is contemplated. The online_services_authorized for access may be limited or controlled according to a location of an access_point used to facilitate_access to the online_services. This location_based_authorization may be useful in providing access to online_services that have location_dependent_restraints.

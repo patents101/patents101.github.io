@@ -1,0 +1,1 @@
+A method and apparatus_receive a plurality of signals that are used to calculate a position of a conductive_object_relative to a capacitive_sensor_element and determine an estimated_position_error through the plurality of signals  the estimated_position_error to offset a position_error of the calculated_position.

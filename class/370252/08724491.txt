@@ -1,0 +1,1 @@
+A method and apparatus for measuring a cell a wireless_communication_system are disclosed. The method includes receiving_measurement_configuration_information for a plurality of frequencies from a BS  without a dedicated_connection between a UE and a network  and measuring_cells using the plurality of frequencies according to the measurement_configuration_information.

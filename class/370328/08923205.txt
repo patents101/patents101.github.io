@@ -1,0 +1,1 @@
+Provided is a radio_communication_base_station_device which can suppress a use amount of an SRS communication resource. In this device  a correlation_rule_setting_unit  

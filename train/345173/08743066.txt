@@ -1,0 +1,1 @@
+A method includes detecting a cover on a touch-sensitive_display of an electronic_device  and automatically_increasing_sensitivity of the touch-sensitive_display to a touch when the cover is detected  without user_interaction.

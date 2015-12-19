@@ -1,0 +1,1 @@
+A method for configuring a touchscreen_controller may include identifying a model of a touchscreen by measuring a capacitance or resistance of at least one element_integrated in the touchscreen__identifying the model of the touchscreen_based on the measured_capacitance or resistance  and configuring the touchscreen_controller_based on the identified_model of the touchscreen.

@@ -1,0 +1,1 @@
+Embodiments relate to systems for  and methods of  detecting_attempted_space_key_activations on a touchscreen. Such systems and methods allow for error-tolerant_data_input on a touchscreen. The systems and methods may be adaptive and grow_progressively more accurate as additional_user_data is received.

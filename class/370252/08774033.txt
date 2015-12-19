@@ -1,0 +1,1 @@
+In a vehicle_communication_system  a frame_transmitting_apparatus gives a transmission_opportunity to an emergency_frame_received from an upper_layer without EDCA  Enhanced Distributed Channel Access  and gives a transmission_opportunity to a generic_frame_received from an upper_layer through EDCA.

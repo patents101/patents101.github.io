@@ -1,0 +1,1 @@
+Methods and systems for interfacing with multi-point_input_devices_employ various techniques for controlling displayed images  including 2D and 3D image translation  scale/zoom  rotation control and globe_axis_tilt_control. Various techniques_employ three or more simultaneous_inputs  changes in characteristics of those inputs  and pressure_sensing  among other things.

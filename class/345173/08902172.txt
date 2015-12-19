@@ -1,0 +1,1 @@
+An apparatus and method for preventing_unintentional_activation of the one or more touch-sensor_buttons_caused by a presence of conductive_liquid on the touch_panel. The apparatus may include a processing_device to prevent_unintentional_activations of one or more touch-sensor_buttons_caused by a presence of conductive_liquid on the one or more touch-sensor_buttons.

@@ -1,0 +1,1 @@
+A method and apparatus_detect a first portion of a touch_sequence through operating in a first scan_mode and detect a second portion of the touch_sequence through operating in a second scan_mode. A touch_sequence may be detected_based on the detection of the first portion and the detection of the second portion.

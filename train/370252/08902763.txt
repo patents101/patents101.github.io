@@ -1,0 +1,1 @@
+A method of high speed downlink packet access  HSDPA  link adaptation  comprises receiving a channel_quality_measurement_metric over a Measured Results on random access channel  RACH  information element  IE . The link is adapted_based upon the received_channel_quality_metric.

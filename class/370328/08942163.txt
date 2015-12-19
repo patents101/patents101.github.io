@@ -1,0 +1,1 @@
+Apparatus and methods to permit the deployment of wireless_base_stations  where a deployed_remote_base_station is backhauled to the core_network over a wireless_connection to an operatively_attached_donor_base_station using protocols that encapsulate_backhaul_communications within standard_subscriber_communication_protocols.

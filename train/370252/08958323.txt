@@ -1,0 +1,1 @@
+A method of operation of a communication_system includes  converting_time-domain_data to frequency-domain_data_based on an N-point transform size  generating K-point data based on the frequency-domain_data and the N-point transform size  and determining a tone_interference_frequency_based on the K-point data for elimination of tone_interference to improve_system_performance.

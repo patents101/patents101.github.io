@@ -1,0 +1,1 @@
+A method and apparatus are provided for user_input to a tablet_computer. The apparatus_consists of movable_grips with touch_sensitive_regions_attached to the sides of a tablet_computer. Both the positions of the grips and the location of touches are used to determine the input_codes sent to the computer.

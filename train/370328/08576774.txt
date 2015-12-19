@@ -1,0 +1,1 @@
+A wireless_system and method_including a medium access control  MAC  layer adapted to generate_low_peak-to-average_power_ratio_binary_preamble_sequences for orthogonal_frequency_division_multiplexing_systems described.

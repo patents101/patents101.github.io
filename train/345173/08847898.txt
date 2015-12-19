@@ -1,0 +1,1 @@
+In one embodiment  a method includes driving at least two of multiple_drive_lines of a touch_sensor at a time  each with one or more electrical_pulses.

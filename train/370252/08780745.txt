@@ -1,0 +1,1 @@
+A communication_terminal is described comprising a transmitter_configured to generate a transmit_signal and a measurement_circuit_configured to receive the generated_transmit_signal and to measure the power of the received_transmit_signal in a predetermined_frequency_region.

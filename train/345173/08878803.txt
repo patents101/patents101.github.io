@@ -1,0 +1,1 @@
+A liquid_crystal_display_device includes a glass_substrate having a first main_surface  a glass_substrate_spaced apart from a first substrate and having a second main_surface_facing said first main_surface  and a highly-sensitive_sensor and a low-sensitive_sensor_arranged between the glass_substrate and the glass_substrate.

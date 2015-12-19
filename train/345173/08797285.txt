@@ -1,0 +1,1 @@
+An electrode_pattern for a position_sensing_panel may have an array of mesh_cells_formed by sinusoidaly_shaped_conductive_lines_extending between vertices of the mesh_cells.

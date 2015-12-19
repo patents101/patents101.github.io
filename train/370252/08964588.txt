@@ -1,0 +1,1 @@
+According to one or multiple_transmission_parameters  one or multiple_measurement_targets are set for a plurality of data_links_provided by a user_equipment in UMTS. The data_throughput of each measurement_target during a specific_period is summed up for acquiring an uplink scheduled IP throughput and a downlink scheduled IP throughput of each measurement_target.
