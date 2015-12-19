@@ -1,0 +1,29 @@
+.skin-black .main-sidebar{
+  background-color: #1A678A
+}
+.js-plotly-plot .plotly, .js-plotly-plot .plotly div{
+  margin-left: auto;
+  margin-right: auto;
+}
+.content-wrapper, .right-side {
+    min-height: 100%;
+    background-color: #F8F8FF;
+    z-index: 800;
+}
+.skin-black .main-sidebar {
+    background-color: #fff;
+}
+
+.skin-black .sidebar a {
+    color: #111;
+}
+.sidebar {
+    color: #111;
+}
+/* active selected tab in the sidebarmenu */
+.skin-black .main-sidebar .sidebar .sidebar-menu  a:hover{
+                      background-color: #83b3dc;
+                      }
+    .skin-black .main-sidebar .sidebar .sidebar-menu .active a{
+                          background-color: #337ab7;
+                          }
